@@ -1,0 +1,24 @@
+Name :David Ra
+Student ID: 101977205
+Final Assignment Reflection OOP244
+Date: Dec 2nd 2020
+
+My overall experience with OOP244 was very positive.
+Professor Huang did an exceptional job teaching the class on various topics of OOP244 and C++ programming.
+The lecture slide summarized and covered all topics very well.
+The professor also showed various example of sample codes of the relevant topic. This has helped to enforce materials we covered during the lecture.
+The quiz reflected on what we have learned during the lecture. It included various forms of questions such as coding a function and multiple choice based on theories.
+
+I liked how the workshops and the final project were creating programs that could potentially be used in a work-environment.
+For example, the final project was about hospital registeration and admittance. 
+This could be correlated to real world scenario (hospital) as we are currently in a pandemic.
+The final project included and covered all materials that we have learned. 
+By having milestones, it made us easier to build a complete program. The milestones were checkpoints as there were various tester files to test out portion of the program.
+During the final milestone, it forced us to integrate multiple files and test various scenarios to make sure that our program was working as intended.
+
+One thing that was difficiult was the instruction of the final assigment, specifically the last milestone.
+I felt that the instructions of the final milestone were vague and not clear. There were couple steps missing in the instruction.
+Even though I have completed in time, It felt we had very little time to complete them as we had final exams and projects from other courses.
+I think the students would have found extremely helpful if they have gotten extra time or extension of the final milestone as well as midterm.
+
+
